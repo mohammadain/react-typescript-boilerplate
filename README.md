@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It's a boilerplate a contact utility for starting react project with typescript, material ui, token authentication, react state, react contaxt, react custom hooks, and a basic infinate scroll. 
+
+Chatdaddy open api is being used https://chatdaddy.stoplight.io/docs/openapi
+
 ## Available Scripts
 
 In the project directory, you can run:
